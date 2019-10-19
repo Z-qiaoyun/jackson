@@ -1,0 +1,87 @@
+#main{
+    border:2px solid black;
+    height:600px;
+    width:500px;
+    margin:0 auto;
+    border-radius:5px;
+}
+.one{
+    background:#ccc;
+    color:black;
+    font-size: 20px;
+    height:50px;
+    display:flex;
+    align-items: center;
+}
+.three{
+    height:50px;
+    width:400px;
+    margin:0 auto;
+    display:flex;
+    align-items: flex-end;
+}
+input{
+    width:400px;
+    height:20px;
+    margin:0 auto ;
+    display: flex;
+    justify-content: center;
+    color:#ccc;
+    border-radius: 5px;
+}
+a{
+    color:#390;
+    text-decoration: none;
+}
+.six{
+    height:50px;
+    width:400px;
+    margin:0 auto;
+    display:flex;
+    align-items:center;
+    }
+    .seven{
+            height:50px;
+            width: 400px;
+            display:flex;
+            align-items:center;
+            margin:0 auto;
+          }
+.eight{
+    color:rgb(245, 245, 245);
+    background:#390;
+    width:400px;
+    height:27px;
+     margin:0 auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+.nine{
+    display:flex;
+    justify-content: center;
+    color:#ccc;
+}
+.ten{
+    width:400px;
+    height:50px;
+    display: flex;
+    justify-content: center;
+    font-size:30px;
+}
+.eleven{
+    width:400px;
+    height:25px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border:0.5px gray solid;
+    margin:0 auto;
+}
+.twelve{
+    display: flex;
+    justify-content: center;
+    color:gray
+}

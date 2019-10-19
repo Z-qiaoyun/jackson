@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+}
+div{
+    display:flex;
+    justify-content: center;
+}
+input{width:500px;}
+p{
+    color:grey;
+}
+.one{
+    color:black;
+    position:absolute;
+    right:100px;   
+ }
+ a {
+     text-decoration:underline;
+     padding-right: 20px;
+      color:grey;
+     
+    }
+    button
+    {
+        width:100px;
+        background: rgb(81, 81, 248);
+        color: cornsilk;
+        font-size:17px;
+    }
+    .two{
+        padding-top: 100px;
+    }
+    
+    .four{
+        padding-top: 100px;
+    }
+ .six{
+       font-size: 13px;
+ }
+ .seven{
+    font-size: 12px;
+}
+ 
+.eight{
+
+    font-size: 12px;
+}
